@@ -1,4 +1,4 @@
-# Источники первой версии
+# Научные источники — версии 0.1–0.2
 
 Проверено 23 сентября 2026 года. Ниже — научные работы и страницы авторов/издателей. Статьи не копируются в репозиторий.
 
@@ -12,10 +12,25 @@
 
 У S4 проверено [исправление от 20 августа 2025](https://www.pnas.org/doi/10.1073/pnas.2518204122): оно касается места работы автора, а не изложенных результатов.
 
+## Добавлено в v0.2
+
+| ID | Работа | Тип | Что изучено |
+|---|---|---|---|
+| S6 | Wang, G., Wang, Y., & Gai, X. (2021). A Meta-Analysis of the Effects of Mental Contrasting With Implementation Intentions on Goal Attainment. [Полный текст / DOI](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full) · 10.3389/fpsyg.2021.565202 | Метаанализ | Аннотация, отбор исследований, результаты, модераторы и анализ публикационного смещения |
+| S7 | Dunlosky, J., et al. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. [DOI](https://doi.org/10.1177/1529100612453266) · [APS](https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html) | Обзор десяти учебных техник | Аннотация и официальный обзор издателя; ссылка на полный отчёт возвращала ограничение доступа |
+| S8 | Roediger, H. L., & Karpicke, J. D. (2006). Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention. [Аннотация издателя](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2006.01693.x/) · [DOI](https://doi.org/10.1111/j.1467-9280.2006.01693.x) | Два эксперимента | Аннотация, условия повторного изучения и воспроизведения, немедленные и отсроченные проверки |
+| S9 | Wisniewski, B., Zierer, K., & Hattie, J. (2020). The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research. [Полный текст / DOI](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.03087/full) · 10.3389/fpsyg.2019.03087 | Метаанализ | Аннотация и доступные разделы; неоднородность и роль содержания обратной связи |
+| S10 | Macnamara, B. N., & Burgoyne, A. P. (2023). Do growth mindset interventions impact students’ academic achievement? A systematic review and meta-analysis with recommendations for best practices. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36326645/) · [DOI](https://doi.org/10.1037/bul0000352) | Систематический обзор и метаанализы | Полная аннотация, оценки эффекта и качества; онлайн-публикация 2022, выпуск 2023 |
+| S11 | Burnette, J. L., et al. (2023). A systematic review and meta-analysis of growth mindset interventions: For whom, how, and why might such interventions work? [PubMed](https://pubmed.ncbi.nlm.nih.gov/36227318/) · [DOI](https://doi.org/10.1037/bul0000368) · [Авторская загрузка](https://www.researchgate.net/publication/364370114_A_systematic_review_and_meta-analysis_of_growth_mindset_interventions_For_whom_how_and_why_might_such_interventions_work) | Систематический обзор и метаанализ | Аннотация и вводные разделы авторского текста; прямая страница издателя недоступна. Онлайн 2022, выпуск 2023 |
+
+S4 и S5 повторно проверены в цикле v0.2: у S4 прочитаны аннотация и основные результаты PNAS; у S5 — аннотация лаборатории и доступные поисковые фрагменты издателя об ограничениях. Воспроизведение анализов не выполнялось.
+
+Официальные источники для книг и программ приведены непосредственно в [каталоге книг](../resources/BOOKS.md) и [каталоге программ](../resources/PROGRAMS.md). Они образуют отдельный слой сведений о содержании предложений.
+
 ## Как читать этот список
 
 Наличие публикации не означает, что она напрямую подтверждает все упражнения. Контекст исследований, участники и инструменты отличаются от нашей программы. Полный постатейный аудит данных и воспроизведение анализов не выполнялись.
 
 Обзор целевой и предварительный: это не исчерпывающий поиск литературы и не профессиональная оценка эффективности курса.
 
-[Краткие выводы](WHAT_WE_KNOW.md) · [На главную](../README.md)
+[Краткие выводы v0.1](WHAT_WE_KNOW.md) · [Карта оснований v0.2](EVIDENCE_MAP.md) · [Статьи](../articles/README.md) · [На главную](../README.md)
